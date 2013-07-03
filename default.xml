@@ -73,7 +73,7 @@
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
   <project path="external/chromium-trace" name="CyanogenMod/android_external_chromium-trace" />
   <project path="external/cibu-fonts" name="CyanogenMod/android_external_cibu-fonts" />
-  <project path="external/clang" name="SlimRoms/android_external_clang" remote="sm" revision="jb4.2" />
+  <project path="external/clang" name="android_external_clang" remote="sm" revision="jb4.2" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" />
   <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
   <project path="external/dexmaker" name="CyanogenMod/android_external_dexmaker" />
